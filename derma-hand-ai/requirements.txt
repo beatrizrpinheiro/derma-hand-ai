@@ -1,0 +1,18 @@
+#core
+numpy
+pandas
+opencv-python
+
+#IA/Deep Learning
+tensorflow>=2.12
+
+#pré-processamento de imagens
+scikit-Learn
+Pillow
+
+#Interface web
+streamlit
+
+#utilitários
+tqdm
+seaborn
